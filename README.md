@@ -1,4 +1,3 @@
-Description
 Welcome to the Buffer Overflow CTF Challenge! Your task is to exploit a vulnerable program by taking advantage of a buffer overflow in order to execute a hidden function and retrieve the flag.
 
 The program asks for user input but is poorly designed, making it vulnerable to buffer overflows. If you manage to overwrite the program's execution flow, you'll be able to jump to a hidden function that will print the flag.
