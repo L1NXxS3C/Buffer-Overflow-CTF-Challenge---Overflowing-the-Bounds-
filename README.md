@@ -15,7 +15,7 @@ This challenge is designed for advanced CTF players. No hints are provided, and 
  Instructions
 
 1. Download the Binary:
-   - You have been provided with a binary named hard_overflow. Your job is to exploit it!
+   - You have been provided with a binary named oV3rFloW Your job is to exploit it!
 
 2. Run the Binary:
    
