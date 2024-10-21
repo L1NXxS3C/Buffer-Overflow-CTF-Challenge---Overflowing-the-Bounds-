@@ -32,3 +32,6 @@ This challenge is designed for advanced CTF players. No hints are provided, and 
 
 4. Craft Your Exploit:
    You will need to carefully craft an input that exploits the buffer overflow, allowing you to take control of the program's execution. Redirect it to the hidden function to retrieve the flag!
+
+SPECIAL GREETINGS TO: ANONYMOUS ALBANIA. / DEATHNOTE HACKERS INT. / PCA. / PHU. / CODEX PH./
+PROJECT BUDDY: (R0S337) CUTIEPIE, THANKS FOR HELPING ME WITH THIS ONE :D
